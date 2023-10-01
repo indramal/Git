@@ -5,3 +5,4 @@ new line 4 add
 new line 5 add for newb branch
 new line 6 add to master branch
 new line 7 add to master branch
+new line A add to master
