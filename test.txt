@@ -3,3 +3,4 @@ new line 2 add
 new line 3 add
 new line 4 add
 new line 5 add for newb branch
+new line 6 add to master branch
