@@ -1,4 +1,2 @@
 new line add
 add ABC
-add XYZ
-add QRS
